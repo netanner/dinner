@@ -1,6 +1,6 @@
 ---
 title: Sources
-layout: browse
+layout: cloud
 permalink: /sources.html
 
 ---
