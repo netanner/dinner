@@ -1,7 +1,7 @@
 ---
 title: Sources
 layout: browse
-permalink: /bsources.html
+permalink: /sources.html
 
 ---
 
